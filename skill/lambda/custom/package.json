@@ -1,0 +1,12 @@
+{
+  "name": "skill-nodejs-rocket-launcher",
+  "version": "1.0.0",
+  "description": "Skill launches rockets",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "alexa-sdk": "^1.0.24",
+    "sync": "^0.2.5"
+  }
+}
